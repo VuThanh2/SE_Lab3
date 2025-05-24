@@ -1,0 +1,11 @@
+D:\HK4\Software Engineering\Labs\Lab02\DAL\BBL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\HK4\Software Engineering\Labs\Lab02\DAL\BBL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\HK4\Software Engineering\Labs\Lab02\DAL\BBL\bin\Debug\BBL.dll.config
+D:\HK4\Software Engineering\Labs\Lab02\DAL\BBL\bin\Debug\BBL.dll
+D:\HK4\Software Engineering\Labs\Lab02\DAL\BBL\bin\Debug\BBL.pdb
+D:\HK4\Software Engineering\Labs\Lab02\DAL\BBL\bin\Debug\DAL.dll
+D:\HK4\Software Engineering\Labs\Lab02\DAL\BBL\bin\Debug\DAL.pdb
+D:\HK4\Software Engineering\Labs\Lab02\DAL\BBL\bin\Debug\DAL.dll.config
+D:\HK4\Software Engineering\Labs\Lab02\DAL\BBL\obj\Debug\BLL.csproj.Up2Date
+D:\HK4\Software Engineering\Labs\Lab02\DAL\BBL\obj\Debug\BBL.dll
+D:\HK4\Software Engineering\Labs\Lab02\DAL\BBL\obj\Debug\BBL.pdb
